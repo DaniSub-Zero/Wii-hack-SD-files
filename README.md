@@ -64,7 +64,11 @@ Congratulation, you now have USB Loader GX succesfuly!
 
 Open the app PriiLoader Installer.
 
-If you have a error go to Wad Manager and go to the file "CIOS Infected Error (Solution)" and install the .wad file.Now try to open PriiLoader Installer again.
+If you have an error go to Wad Manager, go to the file "CIOS Infected Error (Solution)" and install the .wad file.Now try to open PriiLoader Installer again.
+
+If it works you must have priiloader working.For open Priiloader you ned to shut down the wii and turn it on pressing the "power" button and the "reset" button
+
+Very good!
 
 ## RiiConnect24 Install
 
