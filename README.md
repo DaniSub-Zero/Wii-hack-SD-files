@@ -1,3 +1,10 @@
+# Download
+Sorry but I can't put the files so here is the link of the files.
+```sh
+(Mega)  : https://mega.nz/folder/1XkxjIKQ#dUuW7d47fTAq7L4drq8ibA
+(Drive) : https://drive.google.com/drive/folders/1LV6fWqpNrpowMQBbgO7DR4-ZjmjTTrkF?usp=drive_link
+```
+
 # Homebrew and BootMii Instalation (LetterBomb)  "https://please.hackmii.com/"
 Put the Mac address of your wii and paste the files in the SD card of your Wii.After do that put the SD into the wii and go to the mail menu and go back a few days and if the LeterBomb letter is not there come out a few days later and press the A button.Will be appear a menu, click 1 button on the wii controller when the menu ask for it, you will be in the hackmii installer, now install the homebrew chanel, bootmii and go out.Congratulations, you hacked your wii succesfully!Now you need to press the home button and select the BootMii option.You need to go to settings and do a copy of your nand.You move on the menu with "power" button and select the option with the "Resset" button.
 
